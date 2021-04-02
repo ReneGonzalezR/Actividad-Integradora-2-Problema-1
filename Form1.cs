@@ -1,5 +1,10 @@
 ﻿using System;
 using System.Windows.Forms;
+/// <summary>
+/// Lenguaje de programacion III
+/// Autor: Rene Gonzalez Rodriguez
+/// Maestro: Aarón I. Salazar
+/// </summary>
 
 namespace Actividad_Integradora_2_Problema_1
 {
